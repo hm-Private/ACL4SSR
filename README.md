@@ -8,3 +8,7 @@ https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_On
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini
 # ACL4SSR_Online_Full_Netflix 全分组 奈飞全量
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini
+
+
+# 排除香港
+`(^(?!.*(港|HK|Hong kong)).*)
