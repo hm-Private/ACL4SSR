@@ -12,7 +12,7 @@ IP-CIDR,118.102.0.0/16,no-resolve
 IP-CIDR,120.138.0.0/16,no-resolve
 IP-CIDR,222.255.0.0/16,no-resolve
 
-#指定ip走规则
+# 指定ip走规则
 SRC-IP-CIDR,154.83.83.171/32
 SRC-IP-CIDR,5.253.41.115/32
 SRC-IP-CIDR,154.64.252.246/32
