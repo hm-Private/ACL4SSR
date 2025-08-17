@@ -3,8 +3,8 @@
     {
       "key": "jinying",
       "name": "金鹰资源",
-      "type": 0,
-      "api": "https://jyzyapi.com/provide/vod/at/xml/",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -12,8 +12,8 @@
     {
       "key": "maotai",
       "name": "茅台资源",
-      "type": 0,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -21,8 +21,8 @@
     {
       "key": "douban",
       "name": "豆瓣资源",
-      "type": 0,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -30,8 +30,8 @@
     {
       "key": "modu",
       "name": "魔都资源",
-      "type": 0,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -39,8 +39,8 @@
     {
       "key": "hongniu",
       "name": "红牛资源",
-      "type": 0,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -48,8 +48,8 @@
     {
       "key": "OK",
       "name": "OK资源",
-      "type": 0,
-      "api": "http://api.okzyw.net/api.php/provide/vod/from/okm3u8/at/xml",
+      "type": 1,
+      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
