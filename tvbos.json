@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "jinying",
-      "name": "金鹰资源",
-      "type": 0,
-      "api": "https://jyzyapi.com/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "maotai",
       "name": "茅台资源",
       "type": 1,
@@ -23,24 +14,6 @@
       "name": "豆瓣资源",
       "type": 1,
       "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "modu",
-      "name": "魔都资源",
-      "type": 0,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hongniu",
-      "name": "红牛资源",
-      "type": 0,
-      "api": "https://www.hongniuzy3.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
