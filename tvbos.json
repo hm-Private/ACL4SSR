@@ -24,7 +24,7 @@
       "key": "suoni",
       "name": "索尼资源",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://suoniapi.com/api.php/provide/vod",
       "playUrl": "https://dxfbk.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
