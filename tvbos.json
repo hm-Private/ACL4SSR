@@ -24,7 +24,7 @@
       "key": "aiqiyi",
       "name": "爱奇艺资源",
       "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://www.iqiyizyjx.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
