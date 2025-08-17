@@ -22,9 +22,9 @@
     },
     {
       "key": "jinying",
-      "name": "金鹰资源1",
+      "name": "金鹰资源2",
       "type": 1,
-      "api": "https://jyzyapi.com/provide/vod",
+      "api": "https://jyzyapi.com/api.php/provide/vod/at/josn",
       "playUrl": "https://hd.iapijy.com/play?url=",
       "searchable": 1,
       "quickSearch": 1,
