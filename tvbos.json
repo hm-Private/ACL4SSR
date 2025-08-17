@@ -2,9 +2,9 @@
   "sites": [
     {
       "key": "jinying",
-      "name": "金鹰资源2",
+      "name": "金鹰资源3",
       "type": 1,
-      "api": "https://jyzyapi.com/provide/vod",
+      "api": "https://jyzyapi.com/provide/vod/at/json",
       "playUrl": "https://hd.iapijy.com/play?url=",
       "searchable": 1,
       "quickSearch": 1,
