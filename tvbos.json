@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "jinying",
+      "name": "金鹰资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/at/josn/",
+      "playUrl": "https://hd.iapijy.com/play?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "maotai",
       "name": "茅台资源",
       "type": 1,
