@@ -23,11 +23,11 @@
     {
       "key": "jinying",
       "name": "金鹰资源",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hm-Private/ACL4SSR/refs/heads/main/jinying.js",
+      "type": 0,
+      "api": "https://jyzyapi.com/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
     },
     {
       "key": "wujin",
