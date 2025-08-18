@@ -12,7 +12,7 @@
     },
     {
       "key": "douban",
-      "name": "豆瓣1资源",
+      "name": "豆瓣资源",
       "type": 1,
       "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
       "playUrl": "https://www.dbjiexi.com:966/jx/?url=",
