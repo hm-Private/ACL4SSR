@@ -19,15 +19,6 @@
       "filterable": 1
     },
     {
-      "key": "wolong",
-      "name": "卧龙资源",
-      "type": 1,
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "wujin",
       "name": "无尽资源",
       "type": 1,
