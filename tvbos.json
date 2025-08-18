@@ -21,6 +21,17 @@
       "filterable": 1
     },
     {
+      "key": "jinying",
+      "name": "金鹰资源",
+      "type": 3,
+      "api": "csp_Drpy2",
+      "playUrl": "https://hd.iapijy.com/play?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://你的服务器地址/jinying.js"
+    },
+    {
       "key": "wujin",
       "name": "无尽资源",
       "type": 1,
