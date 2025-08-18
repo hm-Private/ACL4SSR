@@ -28,8 +28,8 @@
       "playUrl": "https://hd.iapijy.com/play?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://你的服务器地址/jinying.js"
+      "filterable": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hm-Private/ACL4SSR/refs/heads/main/jinying.js"
     },
     {
       "key": "wujin",
